@@ -8,7 +8,7 @@ Script needs the python package **lxml** for parsing the webpages
 
 
 ## Version Control
-- Name: RDS Web Login Tool
+- Name: README.MD
 - Author: Zak Clifford 
 
 
